@@ -54,6 +54,7 @@ Desenvolver e manter **infraestruturas cloud-native**, unindo práticas DevOps e
 
 - GitHub: https://github.com/TrajanoMedeiros
 - LinkedIn: https://linkedin.com/in/artur-trajano-medeiros
+- Email: arturtrajanomedeiros@gmail.com
 
 ---
 

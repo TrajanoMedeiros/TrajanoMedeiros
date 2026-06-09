@@ -1,61 +1,39 @@
-# 👋 Olá, eu sou Artur Trajano
+<h1 align="center">Hi 👋, I'm Artur Trajano</h1>
 
-🚀 **DevOps Engineer | Cloud & Backend Focused**
+<h3 align="center">Computer Science Student & Full Stack Developer</h3>
 
-Sou um profissional de **DevOps com foco em Cloud Computing e desenvolvimento Backend**, atuando na construção, implantação e manutenção de aplicações modernas, escaláveis e altamente disponíveis.
-
-Tenho experiência integrando desenvolvimento e operações através de automação, containers e infraestrutura em nuvem, garantindo ambientes eficientes, seguros e preparados para produção.
-
----
-
-## ☁️ Foco Principal
-
-- Cloud Infrastructure
-- Backend Development
-- Containerização e Orquestração
-- Automação de Deploy
-- Escalabilidade e Alta Disponibilidade
+<p align="center">
+Passionate about software development, backend engineering, and building scalable web applications.
+</p>
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas
+### 📫 Connect with Me
 
-### 🧩 Backend
-- PHP
+<p align="left">
+<a href="https://github.com/TrajanoMedeiros" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### ☁️ Cloud & DevOps
-- Google Cloud Platform (GCP)
-- Kubernetes
-- Docker
-
-### 🗄️ Banco de Dados
-- PostgreSQL
-
----
-
-## 🔧 Atuação
-
-- 🚀 Deploy e gerenciamento de aplicações em Cloud
-- 📦 Containerização com Docker
-- ☸️ Orquestração com Kubernetes
-- 🔄 Implementação de pipelines CI/CD
-- 🐧 Administração de servidores Linux
-- 📊 Monitoramento e otimização de infraestrutura
+<a href="https://www.linkedin.com/in/artur-trajano-medeiros-1146ab332/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
 ---
 
-## 📈 Objetivo Profissional
+### 🛠️ Languages & Tools
 
-Desenvolver e manter **infraestruturas cloud-native**, unindo práticas DevOps e desenvolvimento backend para criar sistemas robustos, performáticos e escaláveis.
-
----
-
-## 📫 Contato
-
-- GitHub: https://github.com/TrajanoMedeiros
-- LinkedIn: https://linkedin.com/in/artur-trajano-medeiros
-- Email: arturtrajanomedeiros@gmail.com
-
----
-
-⭐ Sempre aberto a colaborar em projetos relacionados a Cloud, Backend e DevOps.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50"/>
+</p>

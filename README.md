@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artur Trajano</h1>
-<h2 align="center"> CTO @authvision </h2>
+<h2 align="center"> CTO @authvisionai </h2>
 <h3 align="center">Computer Science Student & Full Stack Developer</h3>
 
 <p align="center">
